@@ -11,7 +11,6 @@ This is the repository for the code for PHP Zend Framework 2 App.
 
 • MySQL Version 14.14 Distrib 5.7.14
 
-
 **Credits:**
 
 • Zend Technologies USA, Inc.
